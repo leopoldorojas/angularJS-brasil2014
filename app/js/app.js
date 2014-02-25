@@ -8,7 +8,8 @@ var worldCupApp = angular.module('worldCupApp', [
 
   'worldCupControllers',
   'worldCupFilters',
-  'worldCupServices'
+  'worldCupServices',
+  'firebase'
 ]);
 
 worldCupApp.config(['$routeProvider',
