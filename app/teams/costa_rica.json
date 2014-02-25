@@ -1,0 +1,68 @@
+{
+	"id": "costa_rica",
+	"profile": {
+		"name": "Costa Rica",
+		"group": "D",
+		"chances": 0.10,
+		"confederation": "Concacaf",
+		"championships": 0,
+		"worldCups": 4,
+		"rankingFifa": 35,
+	    "bestWorldCup": "1990 Octavos de Final",
+	    "wonItsGroup": false
+	},
+
+    "images": [
+        "img/teams/costa-rica.0.jpg", 
+        "img/teams/costa-rica.1.jpg", 
+        "img/teams/costa-rica.2.jpg", 
+        "img/teams/costa-rica.3.jpg", 
+        "img/teams/costa-rica.4.jpg", 
+        "img/teams/costa-rica.5.jpg"
+    ],
+
+    "calendar": [
+    	{
+    		"versus": "Uruguay",
+    		"date": "2014-06-14T12:00:00.000Z"
+    	},
+    	{
+    		"versus": "Italia",
+    		"date": "2014-06-20T12:00:00.000Z"
+    	},
+    	{
+    		"versus": "Inglaterra",
+    		"date": "2014-06-24T12:00:00.000Z"
+    	}
+    ],
+
+    "starPlayers": [
+    	"Joel Campbell",
+    	"Bryan Ruiz",
+    	"Celso Borges"
+    ],
+
+    "lineByLine": {
+    	"goalkeeper": "Excelente",
+    	"defense": "Muy buena",
+    	"media": "Muy buena",
+    	"offense": "Muy buena"
+    },
+
+    "moreInfo" : {
+	    "description": "La llegada del técnico colombiano Jorge Luis Pinto inició una nueva etapa para el fútbol tico. La selección superó la primera ronda en la zona de Norte, Centroamérica y Caribe como segunda de un grupo que lideró México.",
+
+	    "headline": "Costa Rica ganó todos los partidos que disputó en su casa en la ronda final.",
+
+	    "coach": "Jorge Luis Pinto"
+    },
+
+    "previousStars": [
+		"Hernán Medford",
+		"Alexandre Guimaraes",
+		"Paulo Wanchope",
+		"Walter Centeno",
+		"Rolando Fonseca"
+    ]
+
+}
